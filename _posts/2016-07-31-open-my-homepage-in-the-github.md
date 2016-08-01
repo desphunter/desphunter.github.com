@@ -10,7 +10,7 @@ tags: []
 
 ## To-DO
 
-* 学习Jekyll
+* 学习[Jekyll](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 * 学习[Blog Configuration](http://jekyllbootstrap.com/usage/blog-configuration.html) 
 * 学习Github Markdown
 	1. [github help](https://guides.github.com/features/mastering-markdown/)
