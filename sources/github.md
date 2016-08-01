@@ -8,4 +8,4 @@ description: ""
 
 ## Useful Links
 
-* [Github Emoji] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)
+* [Github Emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji)
