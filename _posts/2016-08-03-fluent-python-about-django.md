@@ -17,6 +17,7 @@ Django [Classy Class-Based Views](http://ccbv.co.uk)
 
 and its [github url](https://github.com/django/django)
 
+and [Django Templates tags](https://docs.djangoproject.com/en/1.9/ref/templates/builtins/)
 
 ## A deep explanation about super()
 
