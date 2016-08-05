@@ -19,6 +19,8 @@ and its [github url](https://github.com/django/django)
 
 and [Django Templates tags](https://docs.djangoproject.com/en/1.9/ref/templates/builtins/)
 
+and [Django Field Typs](https://docs.djangoproject.com/en/1.9/ref/models/fields/)
+
 ## A deep explanation about super()
 
 [it's here](https://rhettinger.wordpress.com/2011/05/26/super-considered-super/)
