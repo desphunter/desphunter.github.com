@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "new post"
+title: "a piece of code example"
 description: ""
 category: 
 tags: []
 ---
 {% include JB/setup %}
 
+```javascript
 
 import org.apache.ht@Gue^33D-9#[email]2nv@tp.ht[/email]@Gue^33D-9#2nv@tpHost;
 import org.apache.ht@Gue^33D-9#[email]2nv@tp.client.methods.Clos[/email]eablehttpResponse;
@@ -73,10 +74,13 @@ public class controller {
     }
 }
 
+```
 
 主要是jersey和httpclient jsoup实现的，pom文件
 
 複製代碼
+
+```javascript
 <?xml version=\\"1.0\\" encoding=\\"UTF-8\\"?>
 <project xmlns=\\"http://maven.apache.org/POM/4.0.0\\"
          xmlns:xsi=\\"http://www.w3.org/2001/XMLSchema-instance\\"
@@ -167,3 +171,5 @@ public class controller {
         </plugins>
     </build>
 </project>
+
+```
